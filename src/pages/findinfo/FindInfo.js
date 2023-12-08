@@ -1,4 +1,5 @@
 import React from 'react';
+import React from 'react';
 
 function FindInfo() {
   return <div>안녕</div>;
