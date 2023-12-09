@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 function FindInfo() {
-  return <div>FindInfo</div>;
+  return <div>안녕</div>;
 }
 
 export default FindInfo;
